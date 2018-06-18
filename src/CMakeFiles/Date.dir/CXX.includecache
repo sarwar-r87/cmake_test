@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rashed/Documents/test/src/Date.cpp
+Date.h
+/home/rashed/Documents/test/src/Date.h
+
+include/Date.h
+
